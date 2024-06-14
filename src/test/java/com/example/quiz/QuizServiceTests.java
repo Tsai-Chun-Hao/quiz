@@ -122,5 +122,6 @@ public class QuizServiceTests {
 			map.put(item, count);
 		}
 		System.out.println(map);
+		System.out.println("==============================");
 	}
 }
